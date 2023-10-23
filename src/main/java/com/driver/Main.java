@@ -6,7 +6,7 @@ public class Main {
         System.out.println(obj.meth());
     }
 
-    static class A{
+    static class A{git add
         String meth(){
             return  "Invoking method from class A";
         }
